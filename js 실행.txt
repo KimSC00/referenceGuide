@@ -1,0 +1,4 @@
+.js 실행
+
+1. bash 쉘 터미널
+2. node app.js(파일명)
