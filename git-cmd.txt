@@ -1,0 +1,5 @@
+git-cmd
+cmd 창에서 git 명령어 사용하기
+git -> cmd 까지 경로 복사
+환경변수 Path
+붙여넣기

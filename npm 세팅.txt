@@ -1,0 +1,16 @@
+npm 세팅
+
+1. 새 터미널 - bash 쉘
+
+2. npm init -y
+
+3. npm install express mongoose 
+(express와 mongoose 동시 설치)
+
+4. npm install body-parser
+(프론트엔트로 부터 requests를 받을때 이 requests(헤더+바디)중의 바디(json으로 오는것)를 
+Middle(중간)에서 오브젝트 형태로 바로 바꿔주는 것)
+
+5. npm install nodemon -g (global)
+ - 코드를 바꿀때마다 자동실행 시켜줌
+ - nodemon app.js로 시작하면 됨
